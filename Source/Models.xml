@@ -4,8 +4,18 @@
   <Header>
     <Version val="14061.00"/>
     <WithIsn val="Y"/>
-    <LastIsn val="0"/>
+    <LastIsn val="1"/>
     <LastIsnFolder val="0"/>
   </Header>
+
+  <ModelsRepository>
+    <Models>
+      <Object id="1" name="test">
+        <PropertyList model="FIELD">
+          <Model attr_obj="FIELD_ALPHA" id="1"/>
+        </PropertyList>
+      </Object>
+    </Models>
+  </ModelsRepository>
 
 </Application>
