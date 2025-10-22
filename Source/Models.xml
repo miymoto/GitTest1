@@ -4,13 +4,20 @@
   <Header>
     <Version val="14061.00"/>
     <WithIsn val="Y"/>
-    <LastIsn val="1"/>
+    <LastIsn val="2"/>
     <LastIsnFolder val="0"/>
   </Header>
 
   <ModelsRepository>
     <Models>
       <Object id="1" name="test">
+        <PropertyList model="FIELD">
+          <Model attr_obj="FIELD_ALPHA" id="1"/>
+          <Size id="174"/>
+          <_Flip id="194"/>
+        </PropertyList>
+      </Object>
+      <Object id="2" name="test1">
         <PropertyList model="FIELD">
           <Model attr_obj="FIELD_ALPHA" id="1"/>
         </PropertyList>
